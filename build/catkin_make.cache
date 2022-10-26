@@ -1,0 +1,2 @@
+hector_gazebo/hector_gazebo:hector_gazebo/hector_gazebo_plugins:hector_gazebo/hector_gazebo_thermal_camera:hector_gazebo/hector_gazebo_worlds:hector_gazebo/hector_sensors_gazebo:rover/rover_bringup:rover/rover_control:rover/rover_description:rover/rover_gazebo:rover/rover_navigation
+-DCATKIN_DEVEL_PREFIX=/home/manveer/Rover/devel -DCMAKE_INSTALL_PREFIX=/home/manveer/Rover/install -G Unix Makefiles
